@@ -35,7 +35,7 @@ class action_plugin_tools extends DokuWiki_Action_Plugin {
     return array (
       'author' => 'Luigi Micco',
       'email' => 'l.micco@tiscali.it',
-      'date' => '2010-04-02',
+      'date' => '2012-07-27',
       'name' => 'Tools plugin (action component)',
       'desc' => 'Insert toolbar with tools on pages<br />Allows to override config options for a certain pages<br />Syntax: ~~TOOLS:(off|top|bottom|both)~~.',
       'url' => 'http://www.dokuwiki.org/plugin:tools',
