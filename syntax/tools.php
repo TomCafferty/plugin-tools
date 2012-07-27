@@ -30,7 +30,7 @@ class syntax_plugin_tools_tools extends DokuWiki_Syntax_Plugin {
       'date' => '2010-03-30',
       'name' => 'Tools plugin (syntax component)',
       'desc' => 'Insert toolbar with tools on pages<br />Allows to override config options for a certain pages<br />Syntax: ~~TOOLS:(off|top|bottom|both)~~.',
-      'url' => 'http://www.bitlibero.com/dokuwiki/tools-30.03.2010.zip',
+      'url' => 'http://www.dokuwiki.org/plugin:tools',
     );
   }
     

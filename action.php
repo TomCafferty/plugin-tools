@@ -38,7 +38,7 @@ class action_plugin_tools extends DokuWiki_Action_Plugin {
       'date' => '2010-04-02',
       'name' => 'Tools plugin (action component)',
       'desc' => 'Insert toolbar with tools on pages<br />Allows to override config options for a certain pages<br />Syntax: ~~TOOLS:(off|top|bottom|both)~~.',
-      'url' => 'http://www.bitlibero.com/dokuwiki/tools-02.04.2010.zip',
+      'url' => 'http://www.dokuwiki.org/plugin:tools',
     );
   }
 
