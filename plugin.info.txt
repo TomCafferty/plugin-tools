@@ -1,6 +1,6 @@
 base tools
 author Luigi Micco
-email tcafferty@glocalfocal.com
+email l.micco@tiscali.it
 date 2012-07-22
 name Tools Plugin
 desc Insert toolbar with tools on pages

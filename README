@@ -2,12 +2,7 @@
 
 tools Plugin for DokuWiki
 
-This is a branch of the original tools plugin found at
-http://www.dokuwiki.org/plugin:tools. The documentation there covers the original plugin.
-
-This branch adds the following tools
-Export to CSV (Table2csv plugin required)
-Export to Timeline (Eventline plugin required)
+Documentation on the tools plugin can be found at http://www.dokuwiki.org/plugin:tools. 
 
 If you install this plugin manually, make sure it is installed in
 lib/plugins/tools/ - if the folder is called different it
