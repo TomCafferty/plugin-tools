@@ -112,7 +112,7 @@ class action_plugin_tools extends DokuWiki_Action_Plugin {
        ,'pdf' => wl($ID, array("rev" =>(int)$rev, "do" => "export_pdf"), false, "&")
        ,'csv' => wl($ID, array("rev" =>(int)$rev, "do" => "export_csv"), false, "&")
        ,'timeline' => wl($ID, array("rev" =>(int)$rev, "do" => "export_timeline"), false, "&")
-       ,'pdfbook' => wl($ID, array("rev" =>(int)$rev, "do" => "addtobook"), false, "&")
+       ,'bookcreator' => wl($ID, array("rev" =>(int)$rev, "do" => "addtobook"), false, "&")
     );
 
     foreach ($tools as $k=>$v) {
