@@ -16,6 +16,7 @@ $meta['show_header'] = array("onoff");
 $meta['tools'] = array('multicheckbox',
                            '_choices' => array( 'email'
                                                ,'pdf'
+                                               ,'bookcreator'
                                                ,'odt'
                                                ,'print'
                                                ,'csv'

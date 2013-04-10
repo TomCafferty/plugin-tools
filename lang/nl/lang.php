@@ -8,13 +8,14 @@
  */
 
 // custom language strings for the plugin
-$lang['tools']          = 'Gereedschappen:';
+$lang['tools']             = 'Gereedschappen:';
 
-$lang['tools_print']    = 'Toon afdruk versie';
-$lang['tools_odt']      = 'Exporteer naar ODT (OpenOffice)';
-$lang['tools_pdf']      = 'Exporteer naar PDF';
-$lang['tools_email']    = 'Verstuur per e-mail';
-$lang['tools_csv']      = 'Exporteer naar csv';
-$lang['tools_timeline'] = 'Exporteer naar Timeline';
+$lang['tools_print']       = 'Toon afdruk versie';
+$lang['tools_odt']         = 'Exporteer naar ODT (OpenOffice)';
+$lang['tools_pdf']         = 'Exporteer naar PDF';
+$lang['tools_bookcreator'] = 'Pagina aan boek toevoegen';
+$lang['tools_email']       = 'Verstuur per e-mail';
+$lang['tools_csv']         = 'Exporteer naar csv';
+$lang['tools_timeline']    = 'Exporteer naar Timeline';
 
 //Setup VIM: ex: et ts=2 enc=utf-8 :
