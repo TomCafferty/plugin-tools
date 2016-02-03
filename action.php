@@ -46,7 +46,7 @@ class action_plugin_tools extends DokuWiki_Action_Plugin {
   /*
    * plugin should use this method to register its handlers with the dokuwiki's event controller
    */
-  function register(&$controller) {
+  function register(Doku_Event_Handler $controller) {
       $controller->register_hook('TPL_ACT_RENDER','AFTER',$this,'tools',array("show" => $this->TOOLS_SHOW_BOTTOM));
       $controller->register_hook('TPL_ACT_RENDER','BEFORE',$this,'tools',array("show" => $this->TOOLS_SHOW_TOP));
   }
